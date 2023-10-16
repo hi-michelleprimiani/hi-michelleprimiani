@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michelle!
-- 👀 I’m interested in Synthesizers and Hiking
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Synthesizers & Nature
+- 🌱 I’m currently learning Javascript, React, Python, Django & SQL at Nashville Software School
 - 💞️ I’m looking to collaborate on building a better future!
 - 📫 How to reach me ... primianimichelle@gmail.com 
 
